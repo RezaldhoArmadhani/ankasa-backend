@@ -5,7 +5,7 @@
   </div>
   <h3 align="center">Ankasa App</h3>
   <p align="center">
-    <a href="https://github.com/alifankebima/ankasa-backend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RezaldhoArmadhani/ankasa-backend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://insancitaticket.vercel.app/">View Demo</a>
     ·
@@ -46,7 +46,7 @@ Follow this steps to run the server locally :
 1. Clone this repository
 
 ```sh
-git clone https://github.com/alifankebima/ankasa-backend.git
+git clone https://github.com/RezaldhoArmadhani/ankasa-backend.git
 ```
 
 2. Change directory to ankasa-backend
@@ -102,9 +102,9 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Frontend Ankasa`](https://github.com/alifankebima/ankasa-frontend)
+:rocket: [`Frontend Ankasa`](https://github.com/RezaldhoArmadhani/FE-ANKASA)
 
-:rocket: [`Backend Ankasa`](https://github.com/alifankebima/ankasa-backend)
+:rocket: [`Backend Ankasa`](https://github.com/RezaldhoArmadhani/ankasa-backend)
 
 :rocket: [`Demo Ankasa`](https://insancitaticket.vercel.app/)
 
@@ -194,4 +194,4 @@ This backend API is created by 3 backend team members and 1 support member, wher
   </table>
 </center>
 
-Project link : [https://github.com/alifankebima/ankasa-backend](https://github.com/alifankebima/ankasa-backend)
+Project link : [https://github.com/RezaldhoArmadhani/ankasa-backend](https://github.com/RezaldhoArmadhani/ankasa-backend)
